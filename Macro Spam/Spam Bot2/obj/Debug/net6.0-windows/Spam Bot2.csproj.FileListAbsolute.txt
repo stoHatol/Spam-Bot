@@ -1,0 +1,17 @@
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\bin\Debug\net6.0-windows\Spam Bot2.exe
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\bin\Debug\net6.0-windows\Spam Bot2.deps.json
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\bin\Debug\net6.0-windows\Spam Bot2.runtimeconfig.json
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\bin\Debug\net6.0-windows\Spam Bot2.dll
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\bin\Debug\net6.0-windows\Spam Bot2.pdb
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.csproj.AssemblyReference.cache
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam_Bot2.Form1.resources
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.csproj.GenerateResource.cache
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.AssemblyInfoInputs.cache
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.AssemblyInfo.cs
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.csproj.CoreCompileInputs.cache
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.dll
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\refint\Spam Bot2.dll
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.pdb
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\Spam Bot2.genruntimeconfig.cache
+C:\Users\yoyo\Downloads\Spam Bot2\Spam Bot2\obj\Debug\net6.0-windows\ref\Spam Bot2.dll
